@@ -1,0 +1,15 @@
+{
+  "cities": [
+    {
+      "id": "istanbul",
+      "name": "Istanbul",
+      "country": "Turkey",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_day.png",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_night.png",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_rain.png",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_snow.png"
+      }
+    }
+  ]
+}

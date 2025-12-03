@@ -5,10 +5,10 @@
       "name": "Istanbul",
       "country": "Turkey",
       "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_day.png",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_night.png",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_rain.png",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_snow.png"
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_snow.jpg"
       }
     },
     {
@@ -25,6 +25,7 @@
   ]
 
 }
+
 
 
 

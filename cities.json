@@ -16,13 +16,14 @@
       "name": "Bursa",
       "country": "Turkey",
       "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_day.webp",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_night.png",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_rain.webp",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_snow.webp"
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_snow.jpg"
       }
     }
   ]
 
 }
+
 

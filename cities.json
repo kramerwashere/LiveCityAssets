@@ -17,7 +17,7 @@
       "country": "Turkey",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_day.webp",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_night.webp",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_night.png",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_rain.webp",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_snow.webp"
       }
@@ -25,3 +25,4 @@
   ]
 
 }
+

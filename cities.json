@@ -35,10 +35,10 @@
       "name": "Bursa",
       "country": "Turkey",
       "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa1_day.jpg",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa1_night.jpg",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa1_rain.jpg",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa1_snow.jpg"
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_snow.jpg"
       }
     },
     {
@@ -57,10 +57,10 @@
       "name": "Istanbul",
       "country": "Turkey",
       "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul1_day.jpg",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul1_night.jpg",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul1_rain.jpg",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul1_snow.jpg"
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_snow.jpg"
       }
     },{
       "id": "london",
@@ -137,6 +137,7 @@
   ]
 
 }
+
 
 
 

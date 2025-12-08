@@ -1,6 +1,17 @@
 {
   "cities": [
     {
+      "id": "amsterdam",
+      "name": "Amsterdam",
+      "country": "Holland",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amsterdam_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amsterdam_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amsterdam_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amsterdam_snow.jpg"
+      }
+    }, 
+    {
       "id": "ankara",
       "name": "Ankara",
       "country": "Turkey",
@@ -9,6 +20,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ankara_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ankara_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ankara_snow.jpg"
+      }
+    }, {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "country": "Spain",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/barcelona_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/barcelona_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/barcelona_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/barcelona_snow.jpg"
       }
     }, {
       "id": "beijing",
@@ -31,6 +52,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/berlin_snow.jpg"
       }
     },{
+      "id": "boston",
+      "name": "Boston",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boston_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boston_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boston_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boston_snow.jpg"
+      }
+    },{
       "id": "bursa",
       "name": "Bursa",
       "country": "Turkey",
@@ -39,6 +70,26 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bursa_snow.jpg"
+      }
+    },{
+      "id": "cairo",
+      "name": "Cairo",
+      "country": "Egypt",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cairo_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cairo_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cairo_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cairo_snow.jpg"
+      }
+    },{
+      "id": "chicago",
+      "name": "Chicago",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chicago_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chicago_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chicago_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chicago_snow.jpg"
       }
     },
     {
@@ -72,6 +123,28 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_snow.jpg"
       }
+    },
+    {
+      "id": "mexicocity",
+      "name": "Mexico City",
+      "country": "Mexico",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_snow.jpg"
+      }
+    },
+    {
+      "id": "newyorkcity",
+      "name": "New York City",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newyorkcity_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newyorkcity_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newyorkcity_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newyorkcity_snow.jpg"
+      }
     },{
       "id": "moscow",
       "name": "Moscow",
@@ -102,6 +175,38 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/paris_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/paris_snow.jpg"
       }
+    },
+    {
+      "id": "philadelphia",
+      "name": "Philadelphia",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/philadelphia_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/philadelphia_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/philadelphia_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/philadelphia_snow.jpg"
+      }
+    },
+    {
+      "id": "riodejaneiro",
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rio_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rio_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rio_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rio_snow.jpg"
+      }
+    },{
+      "id": "rome",
+      "name": "Rome",
+      "country": "Italy",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_snow.jpg"
+      }
     },{
       "id": "seoul",
       "name": "Seoul",
@@ -123,6 +228,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/shanghai_snow.jpg"
       }
     },{
+      "id": "sydney",
+      "name": "Sydney",
+      "country": "Australia",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sydney_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sydney_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sydney_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sydney_snow.jpg"
+      }
+    },{
       "id": "tokyo",
       "name": "Tokyo",
       "country": "Japan",
@@ -132,11 +247,32 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tokyo_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tokyo_snow.jpg"
       }
+    },{
+      "id": "toronto",
+      "name": "Toronto",
+      "country": "Canada",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto_snow.jpg"
+      }
+    },{
+      "id": "washingtondc",
+      "name": "Washington DC",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/washingtondc_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/washingtondc_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/washingtondc_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/washingtondc_snow.jpg"
+      }
     }
     
   ]
 
 }
+
 
 
 

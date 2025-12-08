@@ -22,6 +22,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ankara_snow.jpg"
       }
     }, {
+      "id": "atlanta",
+      "name": "Atlanta",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_snow.jpg"
+      }
+    },{
       "id": "barcelona",
       "name": "Barcelona",
       "country": "Spain",
@@ -146,6 +156,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newyorkcity_snow.jpg"
       }
     },{
+      "id": "miami",
+      "name": "Miami",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miami_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miami_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miami_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miami_snow.jpg"
+      }
+    },{
       "id": "moscow",
       "name": "Moscow",
       "country": "Russia",
@@ -156,6 +176,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/moscow_snow.jpg"
       }
     },{
+      "id": "nashville",
+      "name": "Nashville",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nashville_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nashville_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nashville_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nashville_snow.jpg"
+      }
+    },{
       "id": "mumbai",
       "name": "Mumbai",
       "country": "India",
@@ -164,6 +194,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_snow.jpg"
+      }
+    },{
+      "id": "orlando",
+      "name": "Orlando",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/orlando_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/orlando_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/orlando_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/orlando_snow.jpg"
       }
     },{
       "id": "paris",
@@ -272,6 +312,7 @@
   ]
 
 }
+
 
 
 

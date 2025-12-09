@@ -174,7 +174,7 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_snow.jpg"
       }
     },{
-      "id": "losangeles",
+      "id": "losangeles1",
       "name": "Los Angeles",
       "country": "USA",
       "images": {
@@ -402,6 +402,7 @@
   ]
 
 }
+
 
 
 

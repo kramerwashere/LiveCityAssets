@@ -174,14 +174,14 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_snow.jpg"
       }
     },{
-      "id": "losangelas",
-      "name": "Los Angelas",
+      "id": "losangeles",
+      "name": "Los Angeles",
       "country": "USA",
       "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangelas_day.jpg",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangelas_night.jpg",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangelas_rain.jpg",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangelas_snow.jpg"
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangeles_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangeles_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangeles_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangeles_snow.jpg"
       }
     },
     {
@@ -402,6 +402,7 @@
   ]
 
 }
+
 
 
 

@@ -102,6 +102,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cairo_snow.jpg"
       }
     },{
+      "id": "calgary",
+      "name": "Calgary",
+      "country": "Canada",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/calgary_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/calgary_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/calgary_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/calgary_snow.jpg"
+      }
+    },{
       "id": "charlotte",
       "name": "Charlotte",
       "country": "USA",
@@ -171,6 +181,36 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dubai_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dubai_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dubai_snow.jpg"
+      }
+    },{
+      "id": "edmonton",
+      "name": "Edmonton",
+      "country": "Canada",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/edmonton_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/edmonton_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/edmonton_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/edmonton_snow.jpg"
+      }
+    },{
+      "id": "havana",
+      "name": "Havana",
+      "country": "Cuba",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/havana_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/havana_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/havana_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/havana_snow.jpg"
+      }
+    },{
+      "id": "honolulu",
+      "name": "Honolulu",
+      "country": "USA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/honolulu_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/honolulu_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/honolulu_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/honolulu_snow.jpg"
       }
     },{
       "id": "houston",
@@ -245,6 +285,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_snow.jpg"
       }
     },{
+      "id": "montreal",
+      "name": "Montreal",
+      "country": "Canada",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/montreal_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/montreal_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/montreal_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/montreal_snow.jpg"
+      }
+    },{
       "id": "neworleans",
       "name": "New Orleans",
       "country": "USA",
@@ -316,6 +366,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/orlando_snow.jpg"
       }
     },{
+      "id": "ottawa",
+      "name": "Ottawa",
+      "country": "Canada",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ottawa_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ottawa_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ottawa_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ottawa_snow.jpg"
+      }
+    },{
       "id": "paris",
       "name": "Paris",
       "country": "France",
@@ -365,6 +425,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portland_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portland_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portland_snow.jpg"
+      }
+    },{
+      "id": "quebeccity",
+      "name": "Quebec City",
+      "country": "Canada",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/quebeccity_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/quebeccity_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/quebeccity_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/quebeccity_snow.jpg"
       }
     },
     {
@@ -498,6 +568,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto_snow.jpg"
       }
     },{
+      "id": "vancouver",
+      "name": "Vancouver",
+      "country": "Canada",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/vancouver_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/vancouver_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/vancouver_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/vancouver_snow.jpg"
+      }
+    },{
       "id": "washingtondc",
       "name": "Washington DC",
       "country": "USA",
@@ -512,6 +592,7 @@
   ]
 
 }
+
 
 
 

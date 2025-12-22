@@ -32,6 +32,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/austin_snow.jpg"
       }
     },{
+      "id": "athens",
+      "name": "Athens",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/athens_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/athens_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/athens_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/athens_snow.jpg"
+      }
+    }, {
       "id": "atlanta",
       "name": "Atlanta",
       "country": "USA",
@@ -592,6 +601,7 @@
   ]
 
 }
+
 
 
 

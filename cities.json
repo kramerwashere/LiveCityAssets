@@ -92,6 +92,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boston_snow.jpg"
       }
     },{
+      "id": "brasov",
+      "name": "Braşov",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/brasov_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/brasov_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/brasov_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/brasov_snow.jpg"
+      }
+    },{
       "id": "bruges",
       "name": "Bruges",
       "images": {
@@ -108,6 +117,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/brussels_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/brussels_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/brussels_snow.jpg"
+      }
+    },{
+      "id": "bucharest",
+      "name": "Bucharest",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bucharest_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bucharest_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bucharest_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bucharest_snow.jpg"
       }
     },{
       "id": "budapest",
@@ -200,6 +218,24 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cleveland_snow.jpg"
       }
     },{
+      "id": "clujnapoca",
+      "name": "Cluj-Napoca",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/clujnapoca_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/clujnapoca_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/clujnapoca_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/clujnapoca_snow.jpg"
+      }
+    },{
+      "id": "constanta",
+      "name": "Constanta",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/constanta_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/constanta_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/constanta_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/constanta_snow.jpg"
+      }
+    },{
       "id": "copenhagen",
       "name": "Copenhagen",
       "images": {
@@ -207,6 +243,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/copenhagen_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/copenhagen_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/copenhagen_snow.jpg"
+      }
+    },{
+      "id": "craiova",
+      "name": "Craiova",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/craiova_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/craiova_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/craiova_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/craiova_snow.jpg"
       }
     },{
       "id": "dallas",
@@ -424,6 +469,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/houston_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/houston_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/houston_snow.jpg"
+      }
+    },{
+      "id": "iasi",
+      "name": "Iaşi",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/iasi_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/iasi_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/iasi_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/iasi_snow.jpg"
       }
     },{
       "id": "incheon",
@@ -798,6 +852,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_snow.jpg"
       }
     },{
+      "id": "oradea",
+      "name": "Oradea",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oradea_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oradea_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oradea_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oradea_snow.jpg"
+      }
+    },{
       "id": "orlando",
       "name": "Orlando",
       "images": {
@@ -1124,6 +1187,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/taipei_snow.jpg"
       }
     },{
+      "id": "timisoara",
+      "name": "Timişoara",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/timisoara_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/timisoara_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/timisoara_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/timisoara_snow.jpg"
+      }
+    },{
       "id": "tokyo",
       "name": "Tokyo",
       "images": {
@@ -1263,6 +1335,7 @@
   ]
 
 }
+
 
 
 

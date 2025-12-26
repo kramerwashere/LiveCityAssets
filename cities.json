@@ -291,6 +291,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/firenze_snow.jpg"
       }
     },{
+      "id": "flensburg",
+      "name": "Flensburg",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/flensburg_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/flensburg_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/flensburg_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/flensburg_snow.jpg"
+      }
+    },{
       "id": "frankfurt",
       "name": "Frankfurt",
       "images": {
@@ -445,6 +454,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_snow.jpg"
       }
     },{
+      "id": "jacksonville",
+      "name": "Jacksonville",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jacksonville_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jacksonville_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jacksonville_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jacksonville_snow.jpg"
+      }
+    },{
       "id": "jejucity",
       "name": "Jeju City",
       "images": {
@@ -470,6 +488,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kobe_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kobe_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kobe_snow.jpg"
+      }
+    },{
+      "id": "kolkata",
+      "name": "Kolkata",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kolkata_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kolkata_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kolkata_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kolkata_snow.jpg"
       }
     },{
       "id": "koln",
@@ -517,6 +544,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lasvegas_snow.jpg"
       }
     },{
+      "id": "lagosnigeria",
+      "name": "Lagos, Nigeria",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lagosnigeria_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lagosnigeria_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lagosnigeria_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lagosnigeria_snow.jpg"
+      }
+    },{
       "id": "lisboa",
       "name": "Lisboa",
       "images": {
@@ -542,6 +578,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_snow.jpg"
+      }
+    },{
+      "id": "londonontario",
+      "name": "London, Ontario",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/londonontario_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/londonontario_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/londonontario_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/londonontario_snow.jpg"
       }
     },{
       "id": "losangeles1",
@@ -608,6 +653,15 @@
       }
     },
     {
+      "id": "melbourne",
+      "name": "Melbourne",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/melbourne_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/melbourne_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/melbourne_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/melbourne_snow.jpg"
+      }
+    },{
       "id": "mexicocity",
       "name": "Mexico City",
       "images": {
@@ -669,6 +723,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/napoli_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/napoli_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/napoli_snow.jpg"
+      }
+    },{
+      "id": "newdelhi",
+      "name": "New Delhi",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newdelhi_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newdelhi_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newdelhi_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newdelhi_snow.jpg"
       }
     },{
       "id": "neworleans",
@@ -833,6 +896,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prague_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prague_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prague_snow.jpg"
+      }
+    },{
+      "id": "prescott",
+      "name": "Prescott",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prescott_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prescott_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prescott_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prescott_snow.jpg"
       }
     },{
       "id": "quebeccity",
@@ -1182,6 +1254,7 @@
   ]
 
 }
+
 
 
 

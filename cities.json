@@ -1196,6 +1196,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien1_snow.jpg"
       }
     },{
+      "id": "wittdun",
+      "name": "Wittdün auf Amrum",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wittdun_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wittdun_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wittdun_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wittdun_snow.jpg"
+      }
+    },{
       "id": "washingtondc",
       "name": "Washington DC",
       "images": {
@@ -1254,6 +1263,7 @@
   ]
 
 }
+
 
 
 

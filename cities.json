@@ -20,6 +20,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ankara_snow.jpg"
       }
     }, {
+      "id": "antalya",
+      "name": "Antalya",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_snow.jpg"
+      }
+    }, {
       "id": "austin",
       "name": "Austin",
       "images": {
@@ -506,6 +515,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/istanbul_snow.jpg"
+      }
+    },{
+      "id": "izmir",
+      "name": "Izmir",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/izmir_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/izmir_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/izmir_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/izmir_snow.jpg"
       }
     },{
       "id": "jacksonville",
@@ -1214,6 +1232,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto_snow.jpg"
       }
     },{
+      "id": "trabzon",
+      "name": "Trabzon",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/trabzon_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/trabzon_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/trabzon_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/trabzon_snow.jpg"
+      }
+    },{
       "id": "valencia",
       "name": "Valencia",
       "images": {
@@ -1335,6 +1362,7 @@
   ]
 
 }
+
 
 
 

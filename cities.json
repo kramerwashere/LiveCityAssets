@@ -544,6 +544,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jejucity_snow.jpg"
       }
     },{
+      "id": "karachi",
+      "name": "Karachi",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/karachi_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/karachi_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/karachi_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/karachi_snow.jpg"
+      }
+    },{
       "id": "kiev",
       "name": "Kiev",
       "images": {
@@ -1362,6 +1371,7 @@
   ]
 
 }
+
 
 
 

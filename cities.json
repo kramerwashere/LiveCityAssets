@@ -56,6 +56,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_snow.jpg"
       }
     },{
+      "id": "bandaaceh",
+      "name": "Banda Aceh",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bandaaceh_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bandaaceh_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bandaaceh_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bandaaceh_snow.jpg"
+      }
+    },{
       "id": "bangkok",
       "name": "Bangkok",
       "images": {
@@ -146,6 +155,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/budapest_snow.jpg"
       }
     },{
+      "id": "buenosaires",
+      "name": "Buenos Aires",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/buenosaires_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/buenosaires_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/buenosaires_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/buenosaires_snow.jpg"
+      }
+    },{
       "id": "bursa",
       "name": "Bursa",
       "images": {
@@ -189,6 +207,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/charlotte_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/charlotte_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/charlotte_snow.jpg"
+      }
+    },{
+      "id": "chattanooga",
+      "name": "Chattanooga",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chattanooga_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chattanooga_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chattanooga_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/chattanooga_snow.jpg"
       }
     },{
       "id": "chengdu",
@@ -1331,6 +1358,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/washingtondc_snow.jpg"
       }
     },{
+      "id": "wellington",
+      "name": "Wellington",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wellington_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wellington_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wellington_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wellington_snow.jpg"
+      }
+    },{
       "id": "wuhan",
       "name": "Wuhan",
       "images": {
@@ -1380,6 +1416,7 @@
   ]
 
 }
+
 
 
 

@@ -401,6 +401,7 @@
     },{
       "id": "geneva",
       "name": "Geneva",
+      "aliases": ["Genf"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/geneva_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/geneva_night.jpg",
@@ -609,6 +610,7 @@
     },{
       "id": "koln",
       "name": "Köln",
+      Cologne
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/koln_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/koln_night.jpg",
@@ -799,6 +801,7 @@
     },{
       "id": "munich",
       "name": "Munich",
+      "aliases": ["München"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/munich_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/munich_night.jpg",
@@ -826,6 +829,7 @@
     },{
       "id": "napoli",
       "name": "Napoli",
+      "aliases": ["Naples"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/napoli_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/napoli_night.jpg",
@@ -1398,6 +1402,7 @@
     },{
       "id": "zurich",
       "name": "Zürich",
+      "aliases": ["Zürich"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/zurich_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/zurich_night.jpg",
@@ -1418,6 +1423,7 @@
   ]
 
 }
+
 
 
 

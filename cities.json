@@ -1324,6 +1324,8 @@
     },{
       "id": "wien",
       "name": "Wien",
+      "display_name": "Wien",
+      "aliases": ["Vienna", "Viyana", "Viden", "Beç"]
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_night.jpg",
@@ -1416,6 +1418,7 @@
   ]
 
 }
+
 
 
 

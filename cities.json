@@ -764,6 +764,7 @@
     },{
       "id": "madrid",
       "name": "Madrid",
+      "display_name": "Madrid",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid_night.jpg",
@@ -772,7 +773,8 @@
       }
     },{
       "id": "madrid1",
-      "name": "Madrid-1",
+      "name": "Madrid",
+      "display_name": "Madrid",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid1_night.jpg",
@@ -1129,6 +1131,7 @@
     },{
       "id": "salzburg",
       "name": "Salzburg",
+      "display_name": "Salzburg",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg_night.jpg",
@@ -1137,7 +1140,8 @@
       }
     },{
       "id": "salzburg1",
-      "name": "Salzburg-1",
+      "name": "Salzburg",
+      "display_name": "Salzburg",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg1_night.jpg",
@@ -1402,7 +1406,8 @@
       }
     },{
       "id": "wien1",
-      "name": "Wien-1",
+      "name": "Wien",
+      "display_name": "Wien",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien1_night.jpg",
@@ -1486,6 +1491,7 @@
   ]
 
 }
+
 
 
 

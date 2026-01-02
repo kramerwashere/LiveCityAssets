@@ -1406,8 +1406,7 @@
       }
     },{
       "id": "wien1",
-      "name": "Wien",
-      "display_name": "Wien",
+      "name": "Wien_1",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien1_night.jpg",
@@ -1491,6 +1490,7 @@
   ]
 
 }
+
 
 
 

@@ -282,7 +282,7 @@
       }
     },{
       "id": "clujnapoca",
-      "name": "Cluj-Napoca",
+      "name": "Cluj Napoca",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/clujnapoca_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/clujnapoca_night.jpg",
@@ -772,7 +772,7 @@
       }
     },{
       "id": "madrid1",
-      "name": "Madrid_1",
+      "name": "Madrid-1",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid1_night.jpg",
@@ -1137,7 +1137,7 @@
       }
     },{
       "id": "salzburg1",
-      "name": "Salzburg_1",
+      "name": "Salzburg-1",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg1_night.jpg",
@@ -1400,7 +1400,7 @@
       }
     },{
       "id": "wien1",
-      "name": "Wien_1",
+      "name": "Wien-1",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien1_night.jpg",
@@ -1484,6 +1484,7 @@
   ]
 
 }
+
 
 
 

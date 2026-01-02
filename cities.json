@@ -1141,7 +1141,7 @@
     },{
       "id": "salzburg1",
       "name": "Salzburg",
-      "display_name": "Salzburg",
+      "display_name": "Salzburg1",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/salzburg1_night.jpg",
@@ -1491,6 +1491,7 @@
   ]
 
 }
+
 
 
 

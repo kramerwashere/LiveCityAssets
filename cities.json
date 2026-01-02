@@ -1335,7 +1335,7 @@
       }
     },{
       "id": "toronto1",
-      "name": "Toronto_1",
+      "name": "Toronto-1",
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto1_night.jpg",
@@ -1484,6 +1484,7 @@
   ]
 
 }
+
 
 
 

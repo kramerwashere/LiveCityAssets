@@ -1,6 +1,15 @@
 {
   "cities": [
     {
+      "id": "agra",
+      "name": "Agra",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/agra_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/agra_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/agra_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/agra_snow.jpg"
+      }
+    }{
       "id": "amsterdam",
       "name": "Amsterdam",
       "images": {
@@ -72,6 +81,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bangkok_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bangkok_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bangkok_snow.jpg"
+      }
+    },{
+      "id": "banglore",
+      "name": "Banglore",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/banglore_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/banglore_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/banglore_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/banglore_snow.jpg"
       }
     },{
       "id": "barcelona",
@@ -597,6 +615,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jacksonville_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jacksonville_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jacksonville_snow.jpg"
+      }
+    },{
+      "id": "jaipur",
+      "name": "Jaipur",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jaipur_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jaipur_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jaipur_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jaipur_snow.jpg"
       }
     },{
       "id": "jejucity",
@@ -1343,6 +1370,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto1_snow.jpg"
       }
     },{
+      "id": "toronto2",
+      "name": "Toronto-2",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto2_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto2_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto2_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/toronto2_snow.jpg"
+      }
+    },{
       "id": "trabzon",
       "name": "Trabzon",
       "images": {
@@ -1484,6 +1520,7 @@
   ]
 
 }
+
 
 
 

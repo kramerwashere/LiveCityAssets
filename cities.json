@@ -1556,6 +1556,7 @@
     },{
       "id": "zurich",
       "name": "Zürich",
+      "aliases": ["Zurich"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/zurich2_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/zurich2_night.jpg",
@@ -1567,6 +1568,7 @@
   ]
 
 }
+
 
 
 

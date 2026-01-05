@@ -536,6 +536,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/havana_snow.jpg"
       }
     },{
+      "id": "hayange",
+      "name": "Hayange",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hayange_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hayange_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hayange_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hayange_snow.jpg"
+      }
+    },{
       "id": "helsinki",
       "name": "Helsinki",
       "images": {
@@ -1568,6 +1577,7 @@
   ]
 
 }
+
 
 
 

@@ -1445,7 +1445,7 @@
     },{
       "id": "vadodara",
       "name": "Vadodara",
-      "aliases": ["Baroda"]
+      "aliases": ["Baroda"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/vadodara_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/vadodara_night.jpg",
@@ -1567,6 +1567,7 @@
   ]
 
 }
+
 
 
 

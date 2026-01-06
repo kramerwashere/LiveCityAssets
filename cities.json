@@ -37,6 +37,16 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_snow.jpg"
       }
+    },  {
+      "id": "astana",
+      "name": "Astana",
+      "aliases": ["Nursultan"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/astana_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/astana_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/astana_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/astana_snow.jpg"
+      }
     }, {
       "id": "austin",
       "name": "Austin",
@@ -63,6 +73,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_snow.jpg"
+      }
+    },{
+      "id": "aydin",
+      "name": "Aydın",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_snow.jpg"
       }
     },{
       "id": "bandaaceh",
@@ -1362,6 +1381,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/taipei_snow.jpg"
       }
     },{
+      "id": "tashkent",
+      "name": "Tashkent",
+      "aliases": ["Toshkent"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tashkent_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tashkent_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tashkent_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tashkent_snow.jpg"
+      }
+    },{
       "id": "tehrigarhwal",
       "name": "Tehri Garhwal",
       "images": {
@@ -1577,6 +1606,7 @@
   ]
 
 }
+
 
 
 

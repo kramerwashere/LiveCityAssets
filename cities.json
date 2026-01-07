@@ -336,6 +336,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/clujnapoca_snow.jpg"
       }
     },{
+      "id": "columbus",
+      "name": "Columbus",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/columbus_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/columbus_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/columbus_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/columbus_snow.jpg"
+      }
+    },{
       "id": "constanta",
       "name": "Constanta",
       "images": {
@@ -462,6 +471,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/florence_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/florence_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/florence_snow.jpg"
+      }
+    },{
+      "id": "fortworth",
+      "name": "Fort Worth",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/forthworth_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/forthworth_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/forthworth_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/forthworth_snow.jpg"
       }
     },{
       "id": "frankfurt",
@@ -882,6 +900,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/melbourne_snow.jpg"
       }
     },{
+      "id": "memphis",
+      "name": "Memphis",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/memphis_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/memphis_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/memphis_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/memphis_snow.jpg"
+      }
+    },{
       "id": "mexicocity",
       "name": "Mexico City",
       "images": {
@@ -1026,6 +1053,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_snow.jpg"
+      }
+    },{
+      "id": "oklahomacity",
+      "name": "Oklahoma City",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_snow.jpg"
       }
     },{
       "id": "oradea",
@@ -1246,6 +1282,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sandiego_snow.jpg"
       }
     },{
+      "id": "sanjoseca",
+      "name": "San Jose, CA",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sanjose_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sanjose_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sanjose_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sanjose_snow.jpg"
+      }
+    },{
       "id": "sanfrancisco",
       "name": "San Francisco",
       "images": {
@@ -1262,6 +1307,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sapporo_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sapporo_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sapporo_snow.jpg"
+      }
+    },{
+      "id": "sarajevo",
+      "name": "Sarajevo",
+      "aliases": ["Saraybosna"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo_snow.jpg"
       }
     },{
       "id": "seattle",
@@ -1606,6 +1661,7 @@
   ]
 
 }
+
 
 
 

@@ -18,7 +18,7 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_snow.jpg"
       }
-    }{
+    },{
       "id": "amsterdam",
       "name": "Amsterdam",
       "images": {
@@ -1734,6 +1734,7 @@
   ]
 
 }
+
 
 
 

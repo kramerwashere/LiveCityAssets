@@ -1319,6 +1319,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo_snow.jpg"
       }
     },{
+      "id": "sarajevo1",
+      "name": "Sarajevo-1",
+      "aliases": ["Saraybosna"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo1_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo1_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo1_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sarajevo1_snow.jpg"
+      }
+    },{
       "id": "seattle",
       "name": "Seattle",
       "images": {
@@ -1661,6 +1671,7 @@
   ]
 
 }
+
 
 
 

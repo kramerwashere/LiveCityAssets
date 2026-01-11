@@ -10,6 +10,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/agra_snow.jpg"
       }
     },{
+      "id": "albuquerque",
+      "name": "Albuquerque",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_snow.jpg"
+      }
+    }{
       "id": "amsterdam",
       "name": "Amsterdam",
       "images": {
@@ -82,6 +91,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_snow.jpg"
+      }
+    },{
+      "id": "baltimore",
+      "name": "Baltimore",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/baltimore_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/baltimore_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/baltimore_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/baltimore_snow.jpg"
       }
     },{
       "id": "bandaaceh",
@@ -709,6 +727,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jejucity_snow.jpg"
       }
     },{
+      "id": "kansascitymo",
+      "name": "Kansas City",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kansascitymo_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kansascitymo_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kansascitymo_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kansascitymo_snow.jpg"
+      }
+    },{
       "id": "karachi",
       "name": "Karachi",
       "images": {
@@ -845,6 +872,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangeles_snow.jpg"
       }
     },{
+      "id": "louisville",
+      "name": "Louisville",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/louisville_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/louisville_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/louisville_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/louisville_snow.jpg"
+      }
+    },{
       "id": "lyon",
       "name": "Lyon",
       "images": {
@@ -925,6 +961,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milano_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milano_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milano_snow.jpg"
+      }
+    },{
+      "id": "milwaukee",
+      "name": "Milwaukee",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milwaukee_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milwaukee_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milwaukee_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milwaukee_snow.jpg"
       }
     },{
       "id": "montreal",
@@ -1246,6 +1291,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rotterdam_snow.jpg"
       }
     },{
+      "id": "sacramentoca",
+      "name": "Sacramento",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sacramentoca_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sacramentoca_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sacramentoca_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sacramentoca_snow.jpg"
+      }
+    },{
       "id": "saltlakecity",
       "name": "Salt Lake City",
       "images": {
@@ -1546,6 +1600,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tripura_snow.jpg"
       }
     },{
+      "id": "tucson",
+      "name": "Tucson",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tucson_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tucson_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tucson_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tucson_snow.jpg"
+      }
+    },{
       "id": "vadodara",
       "name": "Vadodara",
       "aliases": ["Baroda"],
@@ -1671,6 +1734,7 @@
   ]
 
 }
+
 
 
 

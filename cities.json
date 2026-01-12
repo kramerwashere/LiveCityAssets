@@ -472,6 +472,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/edmonton_snow.jpg"
       }
     },{
+      "id": "eugeneor",
+      "name": "Eugene, OR",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_snow.jpg"
+      }
+    },{
       "id": "flensburg",
       "name": "Flensburg",
       "images": {
@@ -1734,6 +1743,7 @@
   ]
 
 }
+
 
 
 

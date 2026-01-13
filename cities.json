@@ -474,11 +474,22 @@
     },{
       "id": "eugeneor",
       "name": "Eugene, OR",
+      "aliases": ["OR", "Oregon", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/eugeneor_snow.jpg"
+      }
+    },{
+      "id": "elpasotx",
+      "name": "El Paso, TX",
+      "aliases": ["TX", "Texas", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_snow.jpg"
       }
     },{
       "id": "flensburg",
@@ -981,6 +992,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milwaukee_snow.jpg"
       }
     },{
+      "id": "minneapolismn",
+      "name": "Minneapolis, MN",
+      "aliases": ["MN", "Minnesota", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/minneapolismn_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/minneapolismn_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/minneapolismn_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/minneapolismn_snow.jpg"
+      }
+    },{
       "id": "montreal",
       "name": "Montreal",
       "images": {
@@ -1109,6 +1130,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_snow.jpg"
       }
     },{
+      "id": "oaklandca",
+      "name": "Oakland, CA",
+      "aliases": ["CA", "California", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oaklandca_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oaklandca_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oaklandca_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oaklandca_snow.jpg"
+      }
+    },{
       "id": "oklahomacity",
       "name": "Oklahoma City",
       "images": {
@@ -1116,6 +1147,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_snow.jpg"
+      }
+    },{
+      "id": "omahane",
+      "name": "Omaha, NE",
+      "aliases": ["NE", "Nebraska", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/omahane_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/omahane_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/omahane_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/omahane_snow.jpg"
       }
     },{
       "id": "oradea",
@@ -1618,6 +1659,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tucson_snow.jpg"
       }
     },{
+      "id": "tulsaok",
+      "name": "Tulsa, OK",
+      "aliases": ["OK", "Oklahoma", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tulsaok_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tulsaok_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tulsaok_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/tulsaok_snow.jpg"
+      }
+    },{
       "id": "vadodara",
       "name": "Vadodara",
       "aliases": ["Baroda"],
@@ -1655,6 +1706,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/venezia_snow.jpg"
       }
     },{
+      "id": "virginiabeachva",
+      "name": "Virginia Beach, VA",
+      "aliases": ["VA", "Virginia", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/virginiabeachva_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/virginiabeachva_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/virginiabeachva_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/virginiabeachva_snow.jpg"
+      }
+    },{
       "id": "warsaw",
       "name": "Warsaw",
       "images": {
@@ -1673,6 +1734,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_snow.jpg"
+      }
+    },{
+      "id": "wichitaks",
+      "name": "Wichita, KS",
+      "aliases": ["KS", "Kansas", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wichitaks_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wichitaks_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wichitaks_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wichitaks_snow.jpg"
       }
     },{
       "id": "wittdun",
@@ -1743,6 +1814,7 @@
   ]
 
 }
+
 
 
 

@@ -747,6 +747,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jejucity_snow.jpg"
       }
     },{
+      "id": "jerusalem",
+      "name": "Jerusalem",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jerusalem_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jerusalem_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jerusalem_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jerusalem_snow.jpg"
+      }
+    },{
       "id": "kansascitymo",
       "name": "Kansas City",
       "images": {
@@ -1824,6 +1833,7 @@
   ]
 
 }
+
 
 
 

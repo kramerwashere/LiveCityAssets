@@ -183,6 +183,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bhavnagar_snow.jpg"
       }
     },{
+      "id": "boissano",
+      "name": "Boissano SV",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boissano_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boissano_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boissano_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boissano_snow.jpg"
+      }
+    },{
       "id": "boston",
       "name": "Boston",
       "images": {
@@ -271,6 +280,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/busan_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/busan_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/busan_snow.jpg"
+      }
+    },{
+      "id": "cadiz",
+      "name": "Cadiz",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cadiz_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cadiz_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cadiz_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/cadiz_snow.jpg"
       }
     },{
       "id": "cairo",
@@ -555,6 +573,25 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/glasgow_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/glasgow_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/glasgow_snow.jpg"
+      }
+    },{
+      "id": "gorlice",
+      "name": "Gorlice",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gorlice_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gorlice_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gorlice_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gorlice_snow.jpg"
+      }
+    },{
+      "id": "gottingen",
+      "name": "Gottingen",
+      "aliases": ["Göttingen"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gottingen_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gottingen_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gottingen_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gottingen_snow.jpg"
       }
     },{
       "id": "guangzhou",
@@ -1833,6 +1870,7 @@
   ]
 
 }
+
 
 
 

@@ -1,6 +1,24 @@
 {
   "cities": [
     {
+      "id": "aarhus",
+      "name": "Aarhus",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus_snow.jpg"
+      }
+    },{
+      "id": "aarhus1",
+      "name": "Aarhus1",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus1_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus1_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus1_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus1_snow.jpg"
+      }
+    },{
       "id": "agra",
       "name": "Agra",
       "images": {
@@ -1870,6 +1888,7 @@
   ]
 
 }
+
 
 
 

@@ -155,6 +155,16 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/barcelona_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/barcelona_snow.jpg"
       }
+    },
+    {
+      "id": "basel",
+      "name": "Basel",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/basel_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/basel_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/basel_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/basel_snow.jpg"
+      }
     },{
       "id": "baytown",
       "name": "Baytown",
@@ -573,6 +583,16 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fukuoka_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fukuoka_snow.jpg"
       }
+    },
+    {
+      "id": "fulda",
+      "name": "Fulda",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fulda_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fulda_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fulda_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fulda_snow.jpg"
+      }
     },{
       "id": "geneva",
       "name": "Geneva",
@@ -619,6 +639,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/guangzhou_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/guangzhou_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/guangzhou_snow.jpg"
+      }
+    },{
+      "id": "guadalajara",
+      "name": "Guadalajara",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/guadalajara_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/guadalajara_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/guadalajara_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/guadalajara_snow.jpg"
       }
     },{
       "id": "hamburg",

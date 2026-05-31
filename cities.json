@@ -65,6 +65,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_snow.jpg"
       }
     },  {
+      "id": "arima",
+      "name": "Arima",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/arima_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/arima_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/arima_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/arima_snow.jpg"
+      }
+    },{
       "id": "astana",
       "name": "Astana",
       "aliases": ["Nursultan"],
@@ -1597,6 +1606,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/singapore_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/singapore_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/singapore_snow.jpg"
+      }
+    },{
+      "id": "sky",
+      "name": "Sky",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_snow.jpg"
       }
     },{
       "id": "stockholm",

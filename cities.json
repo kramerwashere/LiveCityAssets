@@ -1085,6 +1085,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milano_snow.jpg"
       }
     },{
+      "id": "miltonkeynes",
+      "name": "Milton Keynes",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miltonkeynes_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miltonkeynes_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miltonkeynes_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miltonkeynes_snow.jpg"
+      }
+    },{
       "id": "milwaukee",
       "name": "Milwaukee",
       "images": {
@@ -1368,6 +1377,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/porto1_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/porto1_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/porto1_snow.jpg"
+      }
+    },{
+      "id": "portofspain",
+      "name": "Port of Spain",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portofspain_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portofspain_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portofspain_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portofspain_snow.jpg"
       }
     },{
       "id": "prague",

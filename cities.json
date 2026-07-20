@@ -539,12 +539,23 @@
     },{
       "id": "elpasotx",
       "name": "El Paso, TX",
-      "aliases": ["TX", "Texas", "USA"],
+      "aliases": ["Texas", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/elpasotx_snow.jpg"
+      }
+    },
+    {
+      "id": "enfield",
+      "name": "Enfield, CT",
+      "aliases": ["Connecticut", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/enfield_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/enfield_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/enfield_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/enfield_snow.jpg"
       }
     },{
       "id": "flensburg",
@@ -564,6 +575,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/florence_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/florence_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/florence_snow.jpg"
+      }
+    },{
+      "id": "fortwayne",
+      "name": "Fort Wayne, IN",
+      "aliases": ["Indiana", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fortwayne_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fortwayne_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fortwayne_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fortwayne_snow.jpg"
       }
     },{
       "id": "fortworth",
@@ -1057,6 +1078,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/manchester_snow.jpg"
       }
     },{
+      "id": "manchesterct",
+      "name": "Manchester, CT",
+      "aliases": ["Connecticut", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/manchesterct_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/manchesterct_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/manchesterct_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/manchesterct_snow.jpg"
+      }
+    },{
       "id": "marseille",
       "name": "Marseille",
       "images": {
@@ -1096,6 +1127,7 @@
     },{
       "id": "middletown",
       "name": "Middletown, CT",
+      "aliases": ["Connecticut", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/middletown_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/middletown_night.jpg",
@@ -1132,7 +1164,7 @@
     },{
       "id": "minneapolismn",
       "name": "Minneapolis, MN",
-      "aliases": ["MN", "Minnesota", "USA"],
+      "aliases": ["Minnesota", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/minneapolismn_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/minneapolismn_night.jpg",
@@ -1157,6 +1189,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/munich1_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/munich1_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/munich1_snow.jpg"
+      }
+    },{
+      "id": "murfreesboro",
+      "name": "Murfreesboro, TN",
+      "aliases": ["Tennessee", "USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/murfreesboro_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/murfreesboro_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/murfreesboro_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/murfreesboro_snow.jpg"
       }
     },{
       "id": "nagoya",
@@ -1655,6 +1697,16 @@
     },{
       "id": "sky",
       "name": "Sky",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_snow.jpg"
+      }
+    },{
+      "id": "southington",
+      "name": "Southington, CT",
+      "aliases": ["Connecticut", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sky_night.jpg",

@@ -695,6 +695,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/haridwar_snow.jpg"
       }
     },{
+      "id": "hartford",
+      "name": "Hartford, CT",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hartford_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hartford_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hartford_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hartford_snow.jpg"
+      }
+    },{
       "id": "havana",
       "name": "Havana",
       "images": {
@@ -838,6 +847,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jejucity_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jejucity_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jejucity_snow.jpg"
+      }
+    },{
+      "id": "jalgaon",
+      "name": "Jalgaon",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jalgaon_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jalgaon_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jalgaon_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/jalgaon_snow.jpg"
       }
     },{
       "id": "jerusalem",
@@ -1074,6 +1092,15 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_snow.jpg"
+      }
+    },{
+      "id": "middletown",
+      "name": "Middletown, CT",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/middletown_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/middletown_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/middletown_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/middletown_snow.jpg"
       }
     },{
       "id": "milano",
@@ -1873,6 +1900,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_snow.jpg"
+      }
+    },{
+      "id": "windsor",
+      "name": "Windsor, CT",
+      "aliases": ["USA"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/windsor_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/windsor_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/windsor_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/windsor_snow.jpg"
       }
     },{
       "id": "wichitaks",

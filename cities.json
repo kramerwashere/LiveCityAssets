@@ -37,6 +37,15 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_snow.jpg"
       }
     },{
+      "id": "amasya",
+      "name": "Amasya",
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amasya_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amasya_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amasya_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amasya_snow.jpg"
+      }
+    },{
       "id": "amsterdam",
       "name": "Amsterdam",
       "images": {

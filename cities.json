@@ -1521,13 +1521,14 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rochester_snow.jpg"
       }
     },{
-      "id": "rome",
-      "name": "Rome",
+      "id": "rom",
+      "name": "Rom",
+      "aliases": ["Rome"],
       "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_day.jpg",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_night.jpg",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_rain.jpg",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rome_snow.jpg"
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rom_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rom_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rom_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rom_snow.jpg"
       }
     },{
       "id": "rosenheim",

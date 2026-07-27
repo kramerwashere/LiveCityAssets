@@ -927,7 +927,7 @@
       }
     },{
       "id": "izmir",
-      "name": "Izmir",
+      "name": "Izmir, Türkiye",
       "aliases": ["Turkey", "Turkiye", "Türkiye"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/izmir_day.jpg",

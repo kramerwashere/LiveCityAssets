@@ -163,7 +163,8 @@
       }
     },{
       "id": "bangkok",
-      "name": "Bangkok",
+      "name": "Bangkok, Thailand",
+      "aliases": ["Thailand"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bangkok_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bangkok_night.jpg",
@@ -172,7 +173,8 @@
       }
     },{
       "id": "banglore",
-      "name": "Banglore",
+      "name": "Bangalore, India",
+      "aliases": ["Bengaluru", "India"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/banglore_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/banglore_night.jpg",
@@ -723,7 +725,8 @@
       }
     },{
       "id": "hanoi",
-      "name": "Hanoi",
+      "name": "Hanoi, Vietnam",
+      "aliases": ["Vietnam"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hanoi_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/hanoi_night.jpg",

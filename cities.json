@@ -2,7 +2,8 @@
   "cities": [
     {
       "id": "aarhus",
-      "name": "Aarhus",
+      "name": "Aarhus, Denmark",
+      "aliases": ["Denmark"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus_night.jpg",
@@ -11,7 +12,8 @@
       }
     },{
       "id": "aarhus1",
-      "name": "Aarhus1",
+      "name": "Aarhus1, Denmark",
+      "aliases": ["Denmark"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aarhus1_night.jpg",
@@ -20,7 +22,8 @@
       }
     },{
       "id": "agra",
-      "name": "Agra",
+      "name": "Agra, India",
+      "aliases": ["India"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/agra_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/agra_night.jpg",
@@ -29,7 +32,8 @@
       }
     },{
       "id": "albuquerque",
-      "name": "Albuquerque",
+      "name": "Albuquerque, NM",
+      "aliases": ["New Mexico", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/albuquerque_night.jpg",
@@ -38,7 +42,8 @@
       }
     },{
       "id": "amasya",
-      "name": "Amasya",
+      "name": "Amasya, Türkiye",
+      "aliases": ["Turkey", "Türkiye", "Turkiye"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amasya_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amasya_night.jpg",
@@ -47,7 +52,8 @@
       }
     },{
       "id": "amsterdam",
-      "name": "Amsterdam",
+      "name": "Amsterdam, Netherlands",
+      "aliases": ["Netherlands", "Holland"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amsterdam_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/amsterdam_night.jpg",
@@ -57,7 +63,8 @@
     }, 
     {
       "id": "ankara",
-      "name": "Ankara",
+      "name": "Ankara, Türkiye",
+      "aliases": ["Turkey", "Türkiye", "Turkiye"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ankara_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ankara_night.jpg",
@@ -66,7 +73,8 @@
       }
     }, {
       "id": "antalya",
-      "name": "Antalya",
+      "name": "Antalya, Türkiye",
+      "aliases": ["Turkey", "Türkiye", "Turkiye"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/antalya_night.jpg",
@@ -75,7 +83,8 @@
       }
     },  {
       "id": "arima",
-      "name": "Arima",
+      "name": "Arima, Trinidad and Tobago",
+      "aliases": ["Trinidad", "Tobago"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/arima_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/arima_night.jpg",
@@ -84,8 +93,8 @@
       }
     },{
       "id": "astana",
-      "name": "Astana",
-      "aliases": ["Nursultan"],
+      "name": "Astana, Kazakhstan",
+      "aliases": ["Nursultan", "Kazakhstan"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/astana_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/astana_night.jpg",
@@ -94,7 +103,8 @@
       }
     }, {
       "id": "austin",
-      "name": "Austin",
+      "name": "Austin, TX",
+      "aliases": ["Texas", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/austin_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/austin_night.jpg",
@@ -103,7 +113,8 @@
       }
     },{
       "id": "athens",
-      "name": "Athens",
+      "name": "Athens, Greece",
+      "aliases": ["Greece"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/athens_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/athens_night.jpg",
@@ -112,7 +123,8 @@
       }
     }, {
       "id": "atlanta",
-      "name": "Atlanta",
+      "name": "Atlanta, GA",
+      "aliases": ["Georgia", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/atlanta_night.jpg",
@@ -121,7 +133,8 @@
       }
     },{
       "id": "aydin",
-      "name": "Aydın",
+      "name": "Aydın, Türkiye",
+      "aliases": ["Turkey", "Türkiye", "Turkiye"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/aydin_night.jpg",
@@ -130,7 +143,8 @@
       }
     },{
       "id": "baltimore",
-      "name": "Baltimore",
+      "name": "Baltimore, MD",
+      "aliases": ["Maryland", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/baltimore_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/baltimore_night.jpg",
@@ -139,7 +153,8 @@
       }
     },{
       "id": "bandaaceh",
-      "name": "Banda Aceh",
+      "name": "Banda Aceh, Indonesia"
+      "aliases": ["Indonesia"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bandaaceh_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/bandaaceh_night.jpg",

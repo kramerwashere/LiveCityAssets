@@ -1087,6 +1087,7 @@
     },{
       "id": "lagosnigeria",
       "name": "Lagos, Nigeria",
+      "aliases": ["Nigeria"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lagosnigeria_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lagosnigeria_night.jpg",
@@ -1095,7 +1096,8 @@
       }
     },{
       "id": "lisboa",
-      "name": "Lisboa",
+      "name": "Lisbon, Portugal",
+      "aliases": ["Lisboa", "Portugal"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lisboa_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lisboa_night.jpg",
@@ -1104,7 +1106,8 @@
       }
     },{
       "id": "liverpool",
-      "name": "Liverpool",
+      "name": "Liverpool, England",
+      "aliases": ["England"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/liverpool_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/liverpool_night.jpg",
@@ -1113,7 +1116,8 @@
       }
     },{
       "id": "london",
-      "name": "London",
+      "name": "London, England",
+      "aliases": ["England"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/london_night.jpg",
@@ -1122,7 +1126,8 @@
       }
     },{
       "id": "londonontario",
-      "name": "London, Ontario",
+      "name": "London, Canada",
+      "aliases": ["Canada", "Ontario"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/londonontario_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/londonontario_night.jpg",
@@ -1131,7 +1136,8 @@
       }
     },{
       "id": "losangeles1",
-      "name": "Los Angeles",
+      "name": "Los Angeles, CA",
+      "aliases": ["California", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangeles_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/losangeles_night.jpg",
@@ -1140,7 +1146,8 @@
       }
     },{
       "id": "louisville",
-      "name": "Louisville",
+      "name": "Louisville, KY",
+      "aliases": ["Kentucky", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/louisville_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/louisville_night.jpg",
@@ -1149,7 +1156,8 @@
       }
     },{
       "id": "lyon",
-      "name": "Lyon",
+      "name": "Lyon, France",
+      "aliases": ["France"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lyon_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/lyon_night.jpg",
@@ -1158,7 +1166,8 @@
       }
     },{
       "id": "macau",
-      "name": "Macau",
+      "name": "Macau, China",
+      "aliases": ["Macao", "China"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/macau_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/macau_night.jpg",
@@ -1167,7 +1176,8 @@
       }
     },{
       "id": "madrid",
-      "name": "Madrid",
+      "name": "Madrid, Spain",
+      "aliases": ["Spain"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid2_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/madrid2_night.jpg",
@@ -1176,7 +1186,8 @@
       }
     },{
       "id": "manchester",
-      "name": "Manchester",
+      "name": "Manchester, England",
+      "aliases": ["England"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/manchester_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/manchester_night.jpg",
@@ -1195,7 +1206,8 @@
       }
     },{
       "id": "marseille",
-      "name": "Marseille",
+      "name": "Marseille, France",
+      "aliases": ["France"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/marseille_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/marseille_night.jpg",
@@ -1205,7 +1217,8 @@
     },
     {
       "id": "melbourne",
-      "name": "Melbourne",
+      "name": "Melbourne, Australia",
+      "aliases": ["Australia"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/melbourne_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/melbourne_night.jpg",
@@ -1214,7 +1227,8 @@
       }
     },{
       "id": "memphis",
-      "name": "Memphis",
+      "name": "Memphis, TN",
+      "aliases": ["Tennessee", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/memphis_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/memphis_night.jpg",
@@ -1223,7 +1237,8 @@
       }
     },{
       "id": "mexicocity",
-      "name": "Mexico City",
+      "name": "Mexico City, Mexico",
+      "aliases": ["Mexico"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mexicocity_night.jpg",
@@ -1242,7 +1257,8 @@
       }
     },{
       "id": "milano",
-      "name": "Milano",
+      "name": "Milano, Italy",
+      "aliases": ["Italy"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milano_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milano_night.jpg",
@@ -1251,7 +1267,8 @@
       }
     },{
       "id": "miltonkeynes",
-      "name": "Milton Keynes",
+      "name": "Milton Keynes, England",
+      "aliases": ["England"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miltonkeynes_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miltonkeynes_night.jpg",
@@ -1260,7 +1277,8 @@
       }
     },{
       "id": "milwaukee",
-      "name": "Milwaukee",
+      "name": "Milwaukee, WI",
+      "aliases": ["Wisconsin", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milwaukee_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/milwaukee_night.jpg",
@@ -1279,7 +1297,8 @@
       }
     },{
       "id": "montreal",
-      "name": "Montreal",
+      "name": "Montreal, Canada",
+      "aliases": ["Canada"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/montreal_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/montreal_night.jpg",
@@ -1288,8 +1307,8 @@
       }
     },{
       "id": "munich",
-      "name": "Munich",
-      "aliases": ["München"],
+      "name": "Munich, Germany",
+      "aliases": ["München", "Deutschland", "Germany"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/munich1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/munich1_night.jpg",
@@ -1308,7 +1327,8 @@
       }
     },{
       "id": "nagoya",
-      "name": "Nagoya",
+      "name": "Nagoya, Japan",
+      "aliases": ["Japan"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nagoya_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nagoya_night.jpg",
@@ -1317,7 +1337,8 @@
       }
     },{
       "id": "nanjing",
-      "name": "Nanjing",
+      "name": "Nanjing, China",
+      "aliases": ["Nanking", "China"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nanjing_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nanjing_night.jpg",
@@ -1326,7 +1347,8 @@
       }
     },{
       "id": "napoli",
-      "name": "Napoli",
+      "name": "Napoli, Italy",
+      "aliases": ["Naples", "Italy"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/napoli_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/napoli_night.jpg",
@@ -1335,7 +1357,8 @@
       }
     },{
       "id": "navimumbai",
-      "name": "Navi Mumbai",
+      "name": "Navi Mumbai, India",
+      "aliases": ["India"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/navimumbai_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/navimumbai_night.jpg",
@@ -1344,7 +1367,8 @@
       }
     },{
       "id": "newdelhi",
-      "name": "New Delhi",
+      "name": "New Delhi, India",
+      "aliases": ["India"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newdelhi_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newdelhi_night.jpg",
@@ -1353,7 +1377,8 @@
       }
     },{
       "id": "neworleans",
-      "name": "New Orleans",
+      "name": "New Orleans, LA",
+      "aliases": ["Louisiana", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/neworleans_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/neworleans_night.jpg",
@@ -1363,7 +1388,8 @@
     },
     {
       "id": "newyorkcity",
-      "name": "New York City",
+      "name": "New York City, NY",
+      "aliases": ["USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newyorkcity_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/newyorkcity_night.jpg",
@@ -1372,7 +1398,8 @@
       }
     },{
       "id": "nice",
-      "name": "Nice",
+      "name": "Nice, France",
+      "aliases": ["France"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nice_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nice_night.jpg",
@@ -1381,7 +1408,8 @@
       }
     },{
       "id": "miami",
-      "name": "Miami",
+      "name": "Miami, FL",
+      "aliases": ["Florida", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miami_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/miami_night.jpg",
@@ -1390,7 +1418,8 @@
       }
     },{
       "id": "moscow",
-      "name": "Moscow",
+      "name": "Moscow, Russia",
+      "aliases": ["Russia"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/moscow_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/moscow_night.jpg",
@@ -1399,7 +1428,8 @@
       }
     },{
       "id": "nashville",
-      "name": "Nashville",
+      "name": "Nashville, TN",
+      "aliases": ["Tennessee", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nashville_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/nashville_night.jpg",
@@ -1408,7 +1438,8 @@
       }
     },{
       "id": "mumbai",
-      "name": "Mumbai",
+      "name": "Mumbai, India",
+      "aliases": ["Bombay", "India"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/mumbai_night.jpg",
@@ -1418,7 +1449,7 @@
     },{
       "id": "oaklandca",
       "name": "Oakland, CA",
-      "aliases": ["CA", "California", "USA"],
+      "aliases": ["California", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oaklandca_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oaklandca_night.jpg",
@@ -1427,7 +1458,8 @@
       }
     },{
       "id": "oklahomacity",
-      "name": "Oklahoma City",
+      "name": "Oklahoma City, OK",
+      "aliases": ["USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oklahomacity_night.jpg",
@@ -1437,7 +1469,7 @@
     },{
       "id": "omahane",
       "name": "Omaha, NE",
-      "aliases": ["NE", "Nebraska", "USA"],
+      "aliases": ["Nebraska", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/omahane_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/omahane_night.jpg",
@@ -1446,7 +1478,8 @@
       }
     },{
       "id": "oradea",
-      "name": "Oradea",
+      "name": "Oradea, Romania",
+      "aliases": ["Romania"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oradea_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oradea_night.jpg",
@@ -1455,7 +1488,8 @@
       }
     },{
       "id": "orlando",
-      "name": "Orlando",
+      "name": "Orlando, FL",
+      "aliases": ["Florida", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/orlando_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/orlando_night.jpg",
@@ -1464,7 +1498,8 @@
       }
     },{
       "id": "osaka",
-      "name": "Osaka",
+      "name": "Osaka, Japan",
+      "aliases": ["Japan"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/osaka_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/osaka_night.jpg",
@@ -1473,7 +1508,8 @@
       }
     },{
       "id": "oslo",
-      "name": "Oslo",
+      "name": "Oslo, Norway",
+      "aliases": ["Norway"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oslo_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/oslo_night.jpg",
@@ -1482,7 +1518,8 @@
       }
     },{
       "id": "ottawa",
-      "name": "Ottawa",
+      "name": "Ottawa, Canada",
+      "aliases": ["Canada"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ottawa_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ottawa_night.jpg",
@@ -1491,7 +1528,8 @@
       }
     },{
       "id": "paris",
-      "name": "Paris",
+      "name": "Paris, France",
+      "aliases": ["France"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/paris_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/paris_night.jpg",
@@ -1500,7 +1538,8 @@
       }
     },{
       "id": "paurigarhwal",
-      "name": "Pauri Garhwal",
+      "name": "Pauri Garhwal, India",
+      "aliases": ["India"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/paurigarhwal_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/paurigarhwal_night.jpg",
@@ -1510,7 +1549,8 @@
     },
     {
       "id": "philadelphia",
-      "name": "Philadelphia",
+      "name": "Philadelphia, PA",
+      "aliases": ["Pennsylvania", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/philadelphia_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/philadelphia_night.jpg",
@@ -1519,7 +1559,8 @@
       }
     },{
       "id": "phoenix",
-      "name": "Phoenix",
+      "name": "Phoenix, AZ",
+      "aliases": ["Arizona", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/phoenix_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/phoenix_night.jpg",
@@ -1528,7 +1569,8 @@
       }
     },{
       "id": "pittsburgh",
-      "name": "Pittsburgh",
+      "name": "Pittsburgh, PL",
+      "aliases": ["Pennsylvania", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/pittsburgh_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/pittsburgh_night.jpg",
@@ -1537,7 +1579,8 @@
       }
     },{
       "id": "portland",
-      "name": "Portland",
+      "name": "Portland, OR",
+      "aliases": ["Oregon", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portland_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portland_night.jpg",
@@ -1546,7 +1589,8 @@
       }
     },{
       "id": "porto",
-      "name": "Porto",
+      "name": "Porto, Portugal",
+      "aliases": ["Portugal"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/porto1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/porto1_night.jpg",
@@ -1555,7 +1599,8 @@
       }
     },{
       "id": "portofspain",
-      "name": "Port of Spain",
+      "name": "Port of Spain, Trinidad and Tobago",
+      "aliases": ["Trinidad", "Tobago"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portofspain_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/portofspain_night.jpg",
@@ -1564,7 +1609,8 @@
       }
     },{
       "id": "prague",
-      "name": "Prague",
+      "name": "Prague, Czech Republic",
+      "aliases": ["Praha", "Czech Republic"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prague1_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prague1_night.jpg",
@@ -1573,7 +1619,8 @@
       }
     },{
       "id": "prescott",
-      "name": "Prescott",
+      "name": "Prescott, AZ",
+      "aliases": ["Arizona", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prescott_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/prescott_night.jpg",
@@ -1582,7 +1629,8 @@
       }
     },{
       "id": "quebeccity",
-      "name": "Quebec City",
+      "name": "Quebec City, Canada",
+      "aliases": ["Canada"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/quebeccity_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/quebeccity_night.jpg",
@@ -1592,7 +1640,8 @@
     },
     {
       "id": "reykjavik",
-      "name": "Reykjavik",
+      "name": "Reykjavik, Iceland",
+      "aliases": ["Iceland"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/reykjavik_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/reykjavik_night.jpg",
@@ -1601,7 +1650,8 @@
       }
     }, {
       "id": "riodejaneiro",
-      "name": "Rio de Janeiro",
+      "name": "Rio de Janeiro, Brazil",
+      "aliases": ["Brazil"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rio_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rio_night.jpg",
@@ -1610,7 +1660,8 @@
       }
     },{
       "id": "rochester",
-      "name": "Rochester",
+      "name": "Rochester, NY",
+      "aliases": ["New York", "USA"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rochester_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rochester_night.jpg",
@@ -1619,8 +1670,8 @@
       }
     },{
       "id": "rom",
-      "name": "Rom",
-      "aliases": ["Rome"],
+      "name": "Roma, Italy",
+      "aliases": ["Rome", "Italy"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rom_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rom_night.jpg",
@@ -1629,8 +1680,8 @@
       }
     },{
       "id": "rosenheim",
-      "name": "Rosenheim",
-      "aliases": ["Germany"],
+      "name": "Rosenheim, Germany",
+      "aliases": ["Germany", "Deutschland"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rosenheim_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rosenheim_night.jpg",
@@ -1639,7 +1690,8 @@
       }
     },{
       "id": "rotterdam",
-      "name": "Rotterdam",
+      "name": "Rotterdam, Netherlands",
+      "aliases": ["Netherlands"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rotterdam_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/rotterdam_night.jpg",
@@ -1648,7 +1700,8 @@
       }
     },{
       "id": "sacramentoca",
-      "name": "Sacramento",
+      "name": "Sacramento, CA",
+      "aliases": [""],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sacramentoca_day.jpg",
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sacramentoca_night.jpg",

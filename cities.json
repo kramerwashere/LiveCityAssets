@@ -2138,8 +2138,7 @@
       }
     },{
       "id": "wien",
-      "name": "Wien",
-      "display_name": "Wien, Austria",
+      "name": "Wien, Austria",
       "aliases": ["Vienna", "Viyana", "Österreich", "Austria"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/wien_day.jpg",

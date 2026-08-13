@@ -554,6 +554,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dubai_snow.jpg"
       }
     },{
+      "id": "dresden",
+      "name": "Dresden, Germany",
+      "aliases": ["Germnay", "Deutschland"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden1_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden1_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden1_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden1_snow.jpg"
+      }
+    },{
       "id": "dublin",
       "name": "Dublin, Ireland",
       "aliases": ["Baile Átha Cliath", "Ireland"],

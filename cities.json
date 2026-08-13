@@ -542,16 +542,6 @@
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/detroit_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/detroit_snow.jpg"
       }
-    },{
-      "id": "dresden1",
-      "name": "Dresden, Germany",
-      "aliases": ["Germany", "Deutschland"],
-      "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden_day.jpg",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden_night.jpg",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden_rain.jpg",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/dresden_snow.jpg"
-      }
     },
     {
       "id": "dubai",

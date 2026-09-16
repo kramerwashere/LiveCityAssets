@@ -1537,6 +1537,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ottawa_snow.jpg"
       }
     },{
+      "id": "ourense",
+      "name": "Ourense, Spain",
+      "aliases": ["Spain"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ourense_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ourense_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ourense_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/ourense_snow.jpg"
+      }
+    },{
       "id": "paris",
       "name": "Paris, France",
       "aliases": ["France"],

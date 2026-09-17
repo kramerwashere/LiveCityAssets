@@ -706,6 +706,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/fulda_snow.jpg"
       }
     },{
+      "id": "gard",
+      "name": "Gard, France",
+      "aliases": ["France"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gard_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gard_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gard_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/gard_snow.jpg"
+      }
+    },{
       "id": "geneva",
       "name": "Geneva, Switzerland",
       "aliases": ["Genf", "Genève", "Switzerland"],

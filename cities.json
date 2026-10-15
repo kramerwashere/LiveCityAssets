@@ -2127,6 +2127,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/valencia_snow.jpg"
       }
     },{
+      "id": "valenciennes",
+      "name": "Valenciennes, France",
+      "aliases": ["France"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/valenciennes_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/valenciennes_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/valenciennes_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/valenciennes_snow.jpg"
+      }
+    },{
       "id": "vancouver",
       "name": "Vancouver, Canada",
       "aliases": ["Canada"],

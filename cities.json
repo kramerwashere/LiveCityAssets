@@ -263,6 +263,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/boissano_snow.jpg"
       }
     },{
+      "id": "borken",
+      "name": "Borken, Germany",
+      "aliases": ["Germany", "Deutschland"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/borken_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/borken_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/borken_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/borken_snow.jpg"
+      }
+    },{
       "id": "boston",
       "name": "Boston, MA",
       "aliases": ["Massachusetts", "USA"],
@@ -391,6 +401,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/calgary_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/calgary_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/calgary_snow.jpg"
+      }
+    },{
+      "id": "campinas",
+      "name": "Campinas, Brasil",
+      "aliases": ["Brasil", "Brazil"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_snow.jpg"
       }
     },{
       "id": "charlotte",
@@ -1787,6 +1807,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sanjose_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sanjose_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/sanjose_snow.jpg"
+      }
+    },{
+      "id": "saopaulo",
+      "name": "Saopaulo, Brasil",
+      "aliases": ["Brasil", "Brazil"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/saopaulo_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/saopaulo_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/saopaulo_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/saopaulo_snow.jpg"
       }
     },{
       "id": "sanfrancisco",

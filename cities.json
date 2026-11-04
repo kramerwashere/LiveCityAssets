@@ -407,10 +407,10 @@
       "name": "Campinas, Brasil",
       "aliases": ["Brasil", "Brazil"],
       "images": {
-        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_day.jpg",
-        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_night.jpg",
-        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_rain.jpg",
-        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinas_snow.jpg"
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinassp_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinassp_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinassp_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/campinassp_snow.jpg"
       }
     },{
       "id": "charlotte",

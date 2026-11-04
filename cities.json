@@ -1810,7 +1810,7 @@
       }
     },{
       "id": "saopaulo",
-      "name": "Sao xPaulo, Brasil",
+      "name": "Sao Paulo, Brasil",
       "aliases": ["Brasil", "Brazil"],
       "images": {
         "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/saopaulo_day.jpg",

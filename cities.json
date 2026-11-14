@@ -746,6 +746,16 @@
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/geneva_snow.jpg"
       }
     },{
+      "id": "genova",
+      "name": "Genova, Italy",
+      "aliases": ["Genoa", "Italy"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/genova_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/genova_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/genova_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/genova_snow.jpg"
+      }
+    },{
       "id": "glasgow",
       "name": "Glasgow, Scotland",
       "aliases": ["Scotland"],
@@ -1063,6 +1073,16 @@
         "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kobe_night.jpg",
         "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kobe_rain.jpg",
         "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kobe_snow.jpg"
+      }
+    },{
+      "id": "kocaeli",
+      "name": "Kocaeli, Türkiye",
+      "aliases": ["Turkey", "Turkiye", "Türkiye"],
+      "images": {
+        "day": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kocaeli_day.jpg",
+        "night": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kocaeli_night.jpg",
+        "rain": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kocaeli_rain.jpg",
+        "snow": "https://raw.githubusercontent.com/kramerwashere/LiveCityAssets/main/kocaeli_snow.jpg"
       }
     },{
       "id": "kolkata",
